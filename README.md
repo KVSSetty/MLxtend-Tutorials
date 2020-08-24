@@ -15,7 +15,7 @@
 - online classes: [ML and DL guru](https://www.mlanddlguru.com/b)
 
 This repository contains notebooks and other files associated with my
-**Machine Learning tutorials-using mlxtend** primarily using [MLxtend](http://rasbt.github.io/mlxtend/) [scikit-learn](http://scikit-learn.org).
+**Machine Learning tutorials-using mlxtend** primarily using [mlxtend](http://rasbt.github.io/mlxtend/) [scikit-learn](http://scikit-learn.org).
 
 ## Installation Notes
 This tutorial requries the following packages:
@@ -31,7 +31,7 @@ This tutorial requries the following packages:
 - `mlxtend` latest vesion http://rasbt.github.io/mlxtend/
 
 The easiest way to get these is to use the [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://store.continuum.io/) environment manager.
-I suggest downloading and installing [anaconda](https://www.anaconda.com/products/individual) the easiest way as all the packages pre installed and you can start my tutorials immediatly.
+I suggest downloading and installing [anaconda](https://www.anaconda.com/products/individual) the easiest way as most of the packages pre-installed and you can start my tutorials immediatly.
 
 ## Downloading the Tutorial Materials
 I would highly recommend using [GitHub Desktop](https://desktop.github.com/)if you are on Windows, not only for this tutorial, but for the
